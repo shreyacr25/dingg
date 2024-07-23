@@ -1,3 +1,2 @@
 print("hello")
-
-xferuiv 'dcrdcrdcrdcrdcrdcrdcrdcrdcrfvgtvy
+dcrdcrdcrdcrfvgtvy
