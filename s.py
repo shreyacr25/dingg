@@ -1,6 +1,3 @@
 print("hello")
 
-xferuiv 'g
-
-
-g;prtgp
+xferuiv 'dcrdcrdcrdcrdcrdcrdcrdcrdcrfvgtvy
